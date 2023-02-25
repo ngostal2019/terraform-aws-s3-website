@@ -1,7 +1,7 @@
 # AWS s3 Bucket Static Website Hosting Using Modules
 
 - This module provisions AWS s3 buckets configurations for a static website hosting.
-- Additionally, it also uploads the `index.html` file as the default index document.
+- Additionally, it also expect to upload the `index.html` file as the default index document.
 - Consider this as a simple demo for your learning.
 - Review its content before using it in your environment.
 - The root module is two directories up.
